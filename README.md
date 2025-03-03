@@ -1,10 +1,17 @@
-# -
+# - Template-Front-End-Web
 
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+VSCode + Volar (and disable Vetur).
+
+Ага поверил, ну и бредятина)))
+
+## Recommended IDE Setup
+
+NeoVim + vue-language-server (volar)
+
 
 ## Customize configuration
 
